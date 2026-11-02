@@ -54,7 +54,7 @@ Want to know more about my background and work? Visit my personal portfolio:
 
   [![Shreya's Portfolio](https://img.shields.io/badge/SHREYA'S%20PORTFOLIO-Explore%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://shreya-portfolio-web-15.vercel.app/)
 
-  <sub><a href="https://shreya-portfolio-web-15.vercel.app/">shreya-portfolio-web-15.vercel.app</a></sub>
+  <sub><a href="https://shreya-portfolio-site-web.vercel.app/">shreya-portfolio-web-15.vercel.app</a></sub>
 
 </div>
 
